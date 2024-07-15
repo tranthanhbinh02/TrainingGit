@@ -1,3 +1,5 @@
+/*write a program that prints the name of the process from the process ID entered from the keyboard*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
