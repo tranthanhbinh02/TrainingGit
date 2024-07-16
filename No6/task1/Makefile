@@ -1,4 +1,4 @@
 all:
-	gcc -o test test.c
+	gcc -o task1 task1.c
 clean:
-	rm test
+	rm task1
